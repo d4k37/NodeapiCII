@@ -1,0 +1,13 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "using typescript",
+  "main": "index.js",
+  "repository": "https://github.com/d4k36/NodeapiCII.git",
+  "author": "Luís <59730229+d4k37@users.noreply.github.com",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
