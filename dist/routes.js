@@ -7,6 +7,7 @@ exports.createCourse = void 0;
 var CreateCourseService_1 = __importDefault(require("./CreateCourseService"));
 function createCourse(request, response) {
     CreateCourseService_1.default.execute({ name: "NodeJS", duration: 10, educator: "D4k37" });
+    CreateCourseService_1.default.execute({ name: "Como não ser um feijão humano", educator: "Anão" });
     return response.send();
 }
 exports.createCourse = createCourse;
