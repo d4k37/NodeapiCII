@@ -1,5 +1,5 @@
 # NodeapiCII
-
+yarn @type/typescript
 yarn init
 yarn add express
 yarn add nodemon
